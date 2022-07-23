@@ -1,12 +1,14 @@
-compliments: {
-		day_sunny: [
+{
+	"compliments": {
+		"day_sunny": [
 			"Today is a sunny day",
 			"It's a beautiful day"
 		],
-		snow: [
+		"snow": [
 			"Snowball battle!"
 		],
-		rain: [
+		"rain": [
 			"Don't forget your umbrella"
 		]
 	}
+}
